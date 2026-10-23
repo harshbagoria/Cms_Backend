@@ -1,4 +1,4 @@
-import userSchema from "../models/auth.js";
+import userSchema from "../Models/auth.js";
 import bcrypt from "bcrypt";
 import jwt from 'jsonwebtoken';
 import dotenv from 'dotenv';
